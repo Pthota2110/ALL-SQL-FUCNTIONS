@@ -21,3 +21,7 @@ The queries assume the following tables:
 - `orders(order_id, customer_id, order_date, order_amount, status)`
 - `order_items(order_id, product_id, quantity, unit_price)`
 - `products(product_id, product_name, category)`
+## **How to Run**
+```bash
+git clone https://github.com/pthota2110/ecommerce-sql-analytics.git
+cd ecommerce-sql-analytics/sql
